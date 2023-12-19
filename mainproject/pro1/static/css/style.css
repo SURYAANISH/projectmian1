@@ -1,0 +1,35 @@
+.c1{
+    margin: 0;
+    padding: 0;
+}
+.a1{
+    width: 70%;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+    
+}
+.i1 img{
+    width: 95%;
+}
+.h{
+    color: black;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.r1 img{
+    width: 100%;
+}
+.r{
+    width: 85%;
+}
+.r1{
+    transition:transform .3s;
+  }
+  .r1:hover{
+    transform: scale(1.1);
+  }
+.d1{
+    width: 50%;
+}
+.h1{
+    align-c
+}
